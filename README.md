@@ -7,8 +7,9 @@
 
 
 <img align="right" style="width:16rem; height:auto" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
+
 <br>
-<br>
+
 - 🌱 I’m currently learning **Network Infrastructure**
   
 - 👨‍💻 All of my projects are available [@viniciusglacerda](github.com/viniciusglacerda)
